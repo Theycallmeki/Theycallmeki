@@ -1,4 +1,4 @@
-##  computer engineering student.
+##  Computer engineering student.
 
 
 # 💻 Tech Stack:
