@@ -1,4 +1,4 @@
-##  Computer engineering student.
+## 👨‍💻 Computer Engineering Student
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -15,12 +15,21 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
+
+<!-- GitHub Streak -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Main Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=Theycallmeki&show_icons=true&theme=dark&hide_border=false)<br/>
+
+<!-- Top Languages Card -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=6&hide=html,scss)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Theycallmeki&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
