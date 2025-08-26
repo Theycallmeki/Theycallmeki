@@ -20,10 +20,10 @@
 # 📊 GitHub Stats:
 
 <!-- GitHub Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false&cache_seconds=300)
 
-<!-- Top Languages (refreshes every 30 mins, no languages hidden) -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=6&cache_seconds=1800)
+<!-- Top Languages (refreshes every 5 mins, Portfolio_builder excluded) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=10&exclude_repo=Portfolio_builder&cache_seconds=300)
 
 ---
 
