@@ -23,7 +23,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false)<br/>
 
 <!-- Main Stats Card -->
-![](https://github-readme-stats.vercel.app/api?username=Theycallmeki&show_icons=true&theme=dark&hide_border=false)<br/>
+
 
 <!-- Top Languages Card -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=6&hide=html,scss)
