@@ -22,8 +22,8 @@
 <!-- GitHub Streak -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false)
 
-<!-- Top Languages (refreshes every 30 mins) -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=6&hide=html,scss&cache_seconds=1800)
+<!-- Top Languages (refreshes every 30 mins, no languages hidden) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=6&cache_seconds=1800)
 
 ---
 
