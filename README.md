@@ -20,12 +20,9 @@
 # 📊 GitHub Stats:
 
 <!-- GitHub Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false)
 
-<!-- Main Stats Card -->
-
-
-<!-- Top Languages Card -->
+<!-- Top Languages (Python kept) -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=6&hide=html,scss)
 
 ---
