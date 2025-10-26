@@ -19,14 +19,14 @@
 
 
 
-<!-- GitHub Streak -->
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false&cache_seconds=300)
 
-<!-- Top Languages (refreshes every 5 mins, Portfolio_builder excluded) -->
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=10&exclude_repo=Portfolio_builder&cache_seconds=60)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Theycallmeki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
