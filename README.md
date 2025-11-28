@@ -1,4 +1,4 @@
-<img src="./assets/pasko.gif" width="100%" />
+<img src="./assets/jose.gif" width="100%" />
 
 # Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
