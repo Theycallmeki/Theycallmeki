@@ -22,10 +22,10 @@
 
 ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&layout=compact&theme=dark&hide_border=false" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theycallmeki&theme=dark&layout=compact&langs_count=10&exclude_repo=Portfolio_builder&cache_seconds=60)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false&cache_seconds=300" />
+![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false&cache_seconds=300)
