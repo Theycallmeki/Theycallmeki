@@ -1,4 +1,4 @@
-<img src="./assets/jose.gif" width="100%" />
+
 
 
 
