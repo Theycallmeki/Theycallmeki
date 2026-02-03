@@ -34,7 +34,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-.
+
 
 
 ## GitHub Streak
