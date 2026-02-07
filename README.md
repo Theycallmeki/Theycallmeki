@@ -32,9 +32,7 @@
 ![AWS S3](https://img.shields.io/badge/aws%20s3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
-
-
+..
 
 
 ## GitHub Streak
