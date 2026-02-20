@@ -33,7 +33,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
-.
+
 ## GitHub Streak
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Theycallmeki&theme=dark&hide_border=false&cache_seconds=300)
