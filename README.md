@@ -1,4 +1,4 @@
-I love to code :).
+I love to code :)
 
 
 ## GitHub Streak
