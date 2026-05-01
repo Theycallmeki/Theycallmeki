@@ -1,8 +1,11 @@
- Computer Engineering Graduate.
+# Computer Engineering Graduate
 
+## Portfolio
+https://www.kianlaxamana.dev/
 
-Portfolio
+---
 
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,7 +40,7 @@ Portfolio
 ![DigitalOcean](https://img.shields.io/badge/digitalocean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
 ## GitHub Streak
-
 ![](https://streak-stats.demolab.com?user=Theycallmeki&theme=dark)
