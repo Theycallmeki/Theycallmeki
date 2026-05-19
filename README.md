@@ -1,6 +1,6 @@
 # Computer Engineering Graduate
 
-## Portfolio(Under Development)
+## Portfolio
 https://www.kianlaxamana.dev/
 
 ---
