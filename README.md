@@ -1,7 +1,5 @@
 # Computer Engineering Graduate
 
-## Portfolio
-https://www.kianlaxamana.dev/
 
 ---
 
