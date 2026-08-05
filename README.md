@@ -32,5 +32,9 @@
 ![DigitalOcean](https://img.shields.io/badge/digitalocean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
-## GitHub Streak
-![](https://streak-stats.demolab.com?user=Theycallmeki&theme=dark)
+## GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theycallmeki/Theycallmeki/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theycallmeki/Theycallmeki/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Theycallmeki/Theycallmeki/output/github-contribution-grid-snake.svg" />
+</picture>
