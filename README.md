@@ -35,9 +35,4 @@
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Theycallmeki&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theycallmeki/Theycallmeki/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theycallmeki/Theycallmeki/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Theycallmeki/Theycallmeki/output/github-contribution-grid-snake.svg" />
-</picture>
+
