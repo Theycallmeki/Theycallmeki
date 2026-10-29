@@ -1,4 +1,4 @@
-# SWE
+
 ---
 ## Tech Stack
 ### Languages
